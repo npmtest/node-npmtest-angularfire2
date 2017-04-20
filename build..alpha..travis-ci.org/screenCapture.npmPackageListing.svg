@@ -1,0 +1,74 @@
+<svg height="1134" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1134" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-20 04:19:25 +0000   237907 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 04:19:25 +0000     2116 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 04:19:25 +0000     1791 bytes  angularfire2.d.ts</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 04:19:25 +0000     4389 bytes  angularfire2.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 04:19:25 +0000     6572 bytes  angularfire2.js.map</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 04:19:25 +0000     9457 bytes  angularfire2.metadata.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 04:19:25 +0000     1181 bytes  auth/auth.d.ts</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 04:19:25 +0000     8207 bytes  auth/auth.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 04:19:25 +0000    13931 bytes  auth/auth.js.map</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 04:19:25 +0000     3143 bytes  auth/auth.metadata.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 04:19:25 +0000     1995 bytes  auth/auth_backend.d.ts</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 04:19:25 +0000     2997 bytes  auth/auth_backend.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 04:19:25 +0000     5959 bytes  auth/auth_backend.js.map</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 04:19:25 +0000     1725 bytes  auth/auth_backend.metadata.json</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 04:19:25 +0000     1099 bytes  auth/firebase_sdk_auth_backend.d.ts</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 04:19:25 +0000     5717 bytes  auth/firebase_sdk_auth_backend.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-20 04:19:25 +0000     8931 bytes  auth/firebase_sdk_auth_backend.js.map</tspan>
+<tspan x="10" y="298"> 17.  2017-04-20 04:19:25 +0000     2289 bytes  auth/firebase_sdk_auth_backend.metadata.json</tspan>
+<tspan x="10" y="314"> 18.  2017-04-20 04:19:25 +0000      101 bytes  auth/index.d.ts</tspan>
+<tspan x="10" y="330"> 19.  2017-04-20 04:19:25 +0000      134 bytes  auth/index.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-20 04:19:25 +0000      373 bytes  auth/index.js.map</tspan>
+<tspan x="10" y="362"> 21.  2017-04-20 04:19:25 +0000      291 bytes  auth/index.metadata.json</tspan>
+<tspan x="10" y="378"> 22.  2017-04-20 04:19:25 +0000    46804 bytes  bundles/angularfire2.umd.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-20 04:19:25 +0000      641 bytes  database/database.d.ts</tspan>
+<tspan x="10" y="410"> 24.  2017-04-20 04:19:25 +0000     2563 bytes  database/database.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-20 04:19:25 +0000     3325 bytes  database/database.js.map</tspan>
+<tspan x="10" y="442"> 26.  2017-04-20 04:19:25 +0000     1755 bytes  database/database.metadata.json</tspan>
+<tspan x="10" y="458"> 27.  2017-04-20 04:19:25 +0000      840 bytes  database/firebase_list_factory.d.ts</tspan>
+<tspan x="10" y="474"> 28.  2017-04-20 04:19:25 +0000     7856 bytes  database/firebase_list_factory.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-20 04:19:25 +0000    17619 bytes  database/firebase_list_factory.js.map</tspan>
+<tspan x="10" y="506"> 30.  2017-04-20 04:19:25 +0000      823 bytes  database/firebase_list_factory.metadata.json</tspan>
+<tspan x="10" y="522"> 31.  2017-04-20 04:19:25 +0000     1092 bytes  database/firebase_list_observable.d.ts</tspan>
+<tspan x="10" y="538"> 32.  2017-04-20 04:19:25 +0000     2895 bytes  database/firebase_list_observable.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-20 04:19:25 +0000     5648 bytes  database/firebase_list_observable.js.map</tspan>
+<tspan x="10" y="570"> 34.  2017-04-20 04:19:25 +0000     1231 bytes  database/firebase_list_observable.metadata.json</tspan>
+<tspan x="10" y="586"> 35.  2017-04-20 04:19:25 +0000      333 bytes  database/firebase_object_factory.d.ts</tspan>
+<tspan x="10" y="602"> 36.  2017-04-20 04:19:25 +0000     1113 bytes  database/firebase_object_factory.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-20 04:19:25 +0000     2531 bytes  database/firebase_object_factory.js.map</tspan>
+<tspan x="10" y="634"> 38.  2017-04-20 04:19:25 +0000      199 bytes  database/firebase_object_factory.metadata.json</tspan>
+<tspan x="10" y="650"> 39.  2017-04-20 04:19:25 +0000      658 bytes  database/firebase_object_observable.d.ts</tspan>
+<tspan x="10" y="666"> 40.  2017-04-20 04:19:25 +0000     1633 bytes  database/firebase_object_observable.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-20 04:19:25 +0000     2527 bytes  database/firebase_object_observable.js.map</tspan>
+<tspan x="10" y="698"> 42.  2017-04-20 04:19:25 +0000     1249 bytes  database/firebase_object_observable.metadata.jso\</tspan>
+<tspan x="10" y="714">n</tspan>
+<tspan x="10" y="730"> 43.  2017-04-20 04:19:25 +0000      238 bytes  database/index.d.ts</tspan>
+<tspan x="10" y="746"> 44.  2017-04-20 04:19:25 +0000      271 bytes  database/index.js</tspan>
+<tspan x="10" y="762"> 45.  2017-04-20 04:19:25 +0000      586 bytes  database/index.js.map</tspan>
+<tspan x="10" y="778"> 46.  2017-04-20 04:19:25 +0000      529 bytes  database/index.metadata.json</tspan>
+<tspan x="10" y="794"> 47.  2017-04-20 04:19:25 +0000      666 bytes  database/query_observable.d.ts</tspan>
+<tspan x="10" y="810"> 48.  2017-04-20 04:19:25 +0000     6309 bytes  database/query_observable.js</tspan>
+<tspan x="10" y="826"> 49.  2017-04-20 04:19:25 +0000    13049 bytes  database/query_observable.js.map</tspan>
+<tspan x="10" y="842"> 50.  2017-04-20 04:19:25 +0000      667 bytes  database/query_observable.metadata.json</tspan>
+<tspan x="10" y="858"> 51.  2017-04-20 04:19:25 +0000       32 bytes  index.d.ts</tspan>
+<tspan x="10" y="874"> 52.  2017-04-20 04:19:25 +0000       65 bytes  index.js</tspan>
+<tspan x="10" y="890"> 53.  2017-04-20 04:19:25 +0000      252 bytes  index.js.map</tspan>
+<tspan x="10" y="906"> 54.  2017-04-20 04:19:25 +0000      177 bytes  index.metadata.json</tspan>
+<tspan x="10" y="922"> 55.  2017-04-20 04:19:25 +0000     2025 bytes  interfaces.d.ts</tspan>
+<tspan x="10" y="938"> 56.  2017-04-20 04:19:25 +0000      860 bytes  interfaces.js</tspan>
+<tspan x="10" y="954"> 57.  2017-04-20 04:19:25 +0000     2546 bytes  interfaces.js.map</tspan>
+<tspan x="10" y="970"> 58.  2017-04-20 04:19:25 +0000      397 bytes  interfaces.metadata.json</tspan>
+<tspan x="10" y="986"> 59.  2017-04-20 04:19:25 +0000     3867 bytes  package.json</tspan>
+<tspan x="10" y="1002"> 60.  2017-04-20 04:19:25 +0000      445 bytes  tokens.d.ts</tspan>
+<tspan x="10" y="1018"> 61.  2017-04-20 04:19:25 +0000      545 bytes  tokens.js</tspan>
+<tspan x="10" y="1034"> 62.  2017-04-20 04:19:25 +0000     1254 bytes  tokens.js.map</tspan>
+<tspan x="10" y="1050"> 63.  2017-04-20 04:19:25 +0000     2231 bytes  tokens.metadata.json</tspan>
+<tspan x="10" y="1066"> 64.  2017-04-20 04:19:25 +0000     1252 bytes  utils.d.ts</tspan>
+<tspan x="10" y="1082"> 65.  2017-04-20 04:19:25 +0000     2580 bytes  utils.js</tspan>
+<tspan x="10" y="1098"> 66.  2017-04-20 04:19:25 +0000     6464 bytes  utils.js.map</tspan>
+<tspan x="10" y="1114"> 67.  2017-04-20 04:19:25 +0000     4867 bytes  utils.metadata.json</tspan>
+</text>
+</svg>
